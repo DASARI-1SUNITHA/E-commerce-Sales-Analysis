@@ -1,0 +1,12 @@
+ecommerce-sales-analysis/
+│
+├── data/
+│   └── ecommerce_data.csv
+├── notebooks/
+│   └── ecommerce_sales_analysis.ipynb
+├── src/
+│   ├── data_processing.py
+│   └── visualization.py
+├── README.md
+├── requirements.txt
+└── app.py (optional - for deployment)
